@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://provideit.eu/wp-content/uploads/2025/03/logo.png" alt="ProvideIT Logo" width="75"/>
+  <img src="./assets/logo_provideit.png" alt="ProvideIT Logo" width="75"/>
 </p>
 <h1 align="center">Timo Hoffschröer</h1>
 
 ## 💻 About Me
-I’m a full-stack developer and maker at heart who enjoys turning ideas into polished digital products. Whether it’s a mobile app or a real-time platform, I care about clean architecture, intuitive design, and meaningful impact. I build tech that solves real problems, respects privacy, and feels great to use.
+I'm a full-stack developer and maker who enjoys turning ideas into well-crafted, user-friendly digital products — from mobile apps to real-time platforms. I care about clean architecture, intuitive design, and building tech that solves real problems, respects privacy, and feels great to use.
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,django,python,nextjs,angular,ts,js,docker,postgres" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,django,python,nextjs,angular,ts,js,docker,postgres,sqlite" />
 </div>
 
 
@@ -19,24 +19,19 @@ I’m a full-stack developer and maker at heart who enjoys turning ideas into po
 
 <p align="center">
   <a href="https://drivetogether.provideit.eu/" target="_blank">
-    <img src="https://drivetogether.provideit.eu/hs-fs/hubfs/logo-Apr-07-2025-07-26-41-7435-PM.png?width=1536&height=1536&name=logo-Apr-07-2025-07-26-41-7435-PM.png" alt="DriveTogether Logo" width="120"/>
+    <img src="./assets/logo_drivetogether.png" alt="DriveTogether Logo" width="100"/>
   </a>
 </p>
 
-**Type:** Web & Mobile App
+**Type:** Web & Mobile App  
 **Tech Stack:** Flutter · Dart · Django · Python · PostgreSQL
 
-**DriveTogether** is a modern carpooling platform designed to make commuting smarter, greener, and more social. Built for schools, companies, and communities, the app simplifies the coordination of shared rides while promoting sustainability and cutting costs.
+**DriveTogether** is a carpooling platform tailored for schools, organizations, and communities. Designed with privacy, simplicity, and sustainability in mind, it helps users coordinate rides efficiently while fostering social connections and reducing environmental impact.
 
-* 🗺️ Intuitive route planning with interactive Mapbox integration
-* 🔁 Real-time ride status and location updates via WebSockets
-* 👥 Smart matching for drivers and passengers within trusted groups
-* 🔒 Secure login via IServ, Microsoft, and other SSO providers
-* 🧾 GDPR-compliant data handling with full privacy transparency
-* 🌱 Environmentally conscious: reduce traffic and CO₂ emissions
-* 💡 Simple and user-friendly interface for quick onboarding
-
-> Each active user helps save over **1,700 km of driving** and avoids **260 kg of CO₂ emissions** annually.
+👥 Smart matching of drivers and passengers within school or organization groups  
+🔐 Secure login with IServ, Microsoft, and other identity providers using OAuth  
+📊 GDPR-compliant backend with clear data transparency and consent mechanisms  
+🌱 Sustainability at its core — fewer cars, less traffic, lower CO₂ emissions  
 
 ---
 
@@ -54,12 +49,12 @@ I’m a full-stack developer and maker at heart who enjoys turning ideas into po
 
 **Streak – Gym Log** is a modern fitness tracking app designed to help users build consistent workout habits and monitor their progress effectively. Whether you're a beginner or an experienced athlete, Streak offers a user-friendly interface to:
 
-* 🏋️ Log exercises, sets, reps, and weights with ease
-* 📈 Track workout history and visualize progress over time
-* 🔔 Receive live notifications to stay motivated
-* 📊 Utilize an interactive dashboard for comprehensive insights
-* 🧠 Integrate with Apple Health/Google Health for seamless data synchronization
-* 🎯 Customize workouts to fit individual fitness goals
+🏋️ Log exercises, sets, reps, and weights with ease  
+📈 Track workout history and visualize progress over time  
+🔔 Receive live notifications to stay motivated  
+📊 Utilize an interactive dashboard for comprehensive insights  
+🧠 Integrate with Apple Health/Google Health for seamless data synchronization  
+🎯 Customize workouts to fit individual fitness goals  
 
 <div align="center">
   
@@ -75,12 +70,8 @@ I’m a full-stack developer and maker at heart who enjoys turning ideas into po
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:hoffschroeer@provideit.eu" target="_blank>
+  <a href="mailto:hoffschroeer@provideit.eu" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/users/331201127708360716" target="_blank>
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="35" alt="Discord" />
   </a>
 </p>
 
