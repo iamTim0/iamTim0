@@ -1,82 +1,100 @@
 <p align="center">
   <img src="./assets/logo_provideit.png" alt="ProvideIT Logo" width="75"/>
 </p>
+
 <h1 align="center">Timo Hoffschröer</h1>
 
-## 💻 About Me
-I'm a full-stack developer and maker who enjoys turning ideas into well-crafted, user-friendly digital products — from mobile apps to real-time platforms. I care about clean architecture, intuitive design, and building tech that solves real problems, respects privacy, and feels great to use.
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,django,python,nextjs,angular,ts,js,docker,postgres,sqlite" />
-</div>
-
-
-## 🚀 Featured Projects
-
-### 🚗 [DriveTogether](https://drivetogether.provideit.eu/) – Smart Carpooling Platform
-
 <p align="center">
-  <a href="https://drivetogether.provideit.eu/" target="_blank">
-    <img src="./assets/logo_drivetogether.png" alt="DriveTogether Logo" width="100"/>
-  </a>
+  <b>Senior Full-Stack Developer</b> &nbsp;·&nbsp; Applied Artificial Intelligence (M.Sc.) &nbsp;·&nbsp; Agentic Engineering
 </p>
-
-**Type:** Web & Mobile App  
-**Tech Stack:** Flutter · Dart · Django · Python · PostgreSQL
-
-**DriveTogether** is a carpooling platform tailored for schools, organizations, and communities. Designed with privacy, simplicity, and sustainability in mind, it helps users coordinate rides efficiently while fostering social connections and reducing environmental impact.
-
-👥 Smart matching of drivers and passengers within school or organization groups  
-🔐 Secure login with IServ, Microsoft, and other identity providers using OAuth  
-📊 GDPR-compliant backend with clear data transparency and consent mechanisms  
-🌱 Sustainability at its core — fewer cars, less traffic, lower CO₂ emissions  
-
----
-
-### 💪 [Streak – Gym Log](https://streak-gym-log.web.app/) – Fitness Tracking App
-
-<p align="center">
-  <a href="https://streak-gym-log.web.app/" target="_blank">
-    <img src="https://streak-gym-log.web.app/images/icon01.png" alt="Streak Logo" width="100"/>
-  </a>
-</p>
-
-
-**Type:** Mobile App  
-**Tech Stack:** Flutter · Dart · SQLite
-
-**Streak – Gym Log** is a modern fitness tracking app designed to help users build consistent workout habits and monitor their progress effectively. Whether you're a beginner or an experienced athlete, Streak offers a user-friendly interface to:
-
-🏋️ Log exercises, sets, reps, and weights with ease  
-📈 Track workout history and visualize progress over time  
-🔔 Receive live notifications to stay motivated  
-📊 Utilize an interactive dashboard for comprehensive insights  
-🧠 Integrate with Apple Health/Google Health for seamless data synchronization  
-🎯 Customize workouts to fit individual fitness goals  
-
-<div align="center">
-  
-[![iOS](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/de/app/streak-gym-log/id6445900024)
-[![Android](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.streakapp.streak)
-
-</div>
-
-## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/timohoffschroeer/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:hoffschroeer@provideit.eu" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35" alt="Email" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
+---
+
+## 💻 About Me
+
+Senior full-stack developer building production systems end to end — from data model and API to the interface people actually use. My work centers on **TypeScript web platforms** (Next.js, NestJS), **Python backends** (FastAPI, Django), **event-driven and time-series data** (NATS, TimescaleDB, Redis), and **applied AI**: LLM-based agents and pipelines that do real work, not demos.
+
+I started out in cross-platform mobile with Flutter and still ship it. Alongside development I'm pursuing a **Master's in Applied Artificial Intelligence**, which shapes how I work day to day — spec-driven, agent-assisted engineering as a normal part of the build, not a side experiment.
+
+Whether it's a multi-service analytics platform or a single Chrome extension: clean architecture, honest data handling, and software that stays maintainable long after the first release.
+
+## 🎯 What I Work On
+
+- **Applied AI & agentic engineering** — LLM agents and autonomous pipelines, MCP servers, RAG, local models on edge hardware
+- **Event-driven backends** — FastAPI and NestJS services over NATS and gRPC, PostgreSQL / TimescaleDB
+- **Modern web platforms** — Next.js App Router, TypeScript, Tailwind, multi-tenant auth and role-based access
+- **Cross-platform mobile** — Flutter apps published on the App Store and Google Play
+- **Ship and operate** — Docker Compose, Kubernetes, Traefik, GitHub Actions, self-hosted and on-premise deployments
+
+## 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td><b>Web</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" /></td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,dart" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nestjs,fastapi,django,python,nodejs,bun" /></td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,prisma" /></td>
+  </tr>
+  <tr>
+    <td><b>Platform</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,linux" /></td>
+  </tr>
+</table>
+
+**Data & messaging:** TimescaleDB · pgvector · PostGIS · NATS · gRPC / Protobuf · SQLAlchemy · Alembic  
+**AI & tooling:** MCP (Model Context Protocol) · litellm · llama.cpp · Playwright · Vitest · Taskfile · Traefik · Cloudflare Tunnel  
+**Also worked with:** Angular · Microsoft Dynamics 365 Business Central
+
+## 🚀 Selected Projects
+
+### AI & agentic systems
+
+| Project | Overview | Stack |
+| :-- | :-- | :-- |
+| **Short-Content Generation** | Autonomous pipeline that turns any URL into a 9:16 marketing video — Playwright-based perception, LLM planning against DOM-injected selectors, speech synthesis via litellm, FFmpeg video assembly. | Next.js · FastAPI · Playwright · litellm |
+| **Terra Edge AI** | Fully local AI assistant for an edge thin client — GGUF models through llama.cpp, no cloud, no telemetry. | Python · llama-cpp-python |
+| **Paperflow** | Automates the mechanical side of academic work: a RAG index over your own source PDFs, Zotero metadata lookup, BibTeX citation resolution and LaTeX output written straight into a local Overleaf volume. | Python · RAG · Zotero · LaTeX |
+
+### Platforms & apps
+
+| Project | Overview | Stack |
+| :-- | :-- | :-- |
+| **Quantified Self** | Multi-tenant personal data analytics platform: microservices communicating over NATS and gRPC, TimescaleDB with pgvector and PostGIS, a Next.js dashboard, and a read-only MCP server that lets an AI assistant query your own metrics. Released as containerized images with a one-file deployment bundle. | FastAPI · NATS · gRPC · TimescaleDB · Next.js |
+| **Fleet Inspection Portal** | On-premise, white-label portal for a German vehicle inspection office — HU/AU, SP and UVV due dates with traffic-light status, uploaded documents behind a staff review step, strict tenant separation, fully bilingual. | Next.js · TypeScript · Prisma · PostgreSQL |
+| **[DriveTogether](https://drivetogether.provideit.eu/)** | Privacy-first carpooling for schools and organizations — OAuth login via IServ and Microsoft, GDPR-compliant backend, one Flutter codebase across mobile and web. | Flutter · Django · PostgreSQL |
+| **[Streak – Gym Log](https://streak-gym-log.web.app/)** | Workout logging with progress analytics, live notifications and Apple/Google Health sync. Published on both app stores. | Flutter · Dart · SQLite |
 
 <div align="center">
-  <p><em>Open for collaborations, discussions, and new opportunities!</em></p>
-  <p>💡 <strong>Let's build something amazing together</strong></p>
+  <sub>Streak – Gym Log is available on</sub><br>
+  <a href="https://apps.apple.com/de/app/streak-gym-log/id6445900024">
+    <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.streakapp.streak">
+    <img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+  </a>
+</div>
+
+> A selection — most of my work, from client projects to AI and agent experiments, lives in private repositories. Happy to talk through it.
+
+---
+
+<div align="center">
+  <p>Open to conversations about applied AI, agentic systems and well-built software.</p>
+  <a href="https://www.linkedin.com/in/timohoffschroeer/">Connect on LinkedIn</a>
 </div>
