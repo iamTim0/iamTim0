@@ -5,7 +5,7 @@
 <h1 align="center">Timo Hoffschröer</h1>
 
 <p align="center">
-  <b>Senior Full-Stack Developer</b> &nbsp;·&nbsp; Applied Artificial Intelligence (M.Sc.) &nbsp;·&nbsp; Agentic Engineering
+  <b>Senior Full-Stack Developer</b> &nbsp;·&nbsp; Applied Artificial Intelligence (M.Sc.)
 </p>
 
 <p align="center">
